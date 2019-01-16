@@ -8,7 +8,7 @@ Strive uses SQL and the Sequelize ORM to manage the database, Node.js and Expres
 
 ## Getting Started
 
-``` git clone https://github.com/0jordanmiller/strive.git```
+``` git clone https://github.com/gbremble/strive.git```
 
 Open the deployed version here https://strive-goals-app.herokuapp.com/
 
